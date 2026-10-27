@@ -1,21 +1,17 @@
-# Introduction!
-•   A highly motivated Software Engineer with almost 6 years of experience in software development, focusing on front-end development.  
-•   Deeply understand and have hands-on experience with Next.js, React.js, Core JavaScript, TypeScript, and Web front-end development.  
-•   Hands-on experience in backend development with Node.js, Express.js, Nest.js
-•   Experienced with JavaScript Unit Testing using Jest Framework.  
-•   Working in an agile environment with excellent engineers using the Scrum framework.  
-•   Fast learner, ambitious, efficient, and hardworking team player with effective communication skills.  
-•   Ability to adapt well and learn quickly. Eager to take on extra responsibilities and grow professionally.  
+# Hi, I am Minh (John) Nguyen
 
-My tech stack.
+Senior full-stack engineer (7+ years) working in TypeScript, React and Node.js. I make large web apps fast, typed and safe to change.
 
-## Front-end Development:
+**What I work on**
+- Step-by-step migrations of legacy React apps to modern React and TypeScript, finished by deleting the old code
+- Web performance, with bundle budgets enforced in CI so the gains stay
+- Test suites from zero (Vitest, Playwright) and the CI quality gates around them
+- Design systems (shadcn, Base UI, MUI, Storybook) with automated WCAG accessibility checks
+- Full-stack features with Node.js, NestJS, REST APIs, MongoDB and PostgreSQL
+- AI-native delivery on Claude Code (skills, subagents, hooks, MCP)
 
-Next.js/React.js/TypeScript/JavaScript/HTML5/CSS3/
+**Stack:** TypeScript · JavaScript · React · Next.js · TanStack Query · Zustand · Redux · Tailwind CSS · Node.js · NestJS · MongoDB · PostgreSQL · Kafka · Vite · Vitest · Playwright · Docker · Kubernetes · Terraform · AWS · GCP · GitHub Actions
 
-## Back-end Development:
+Most of my work is in private company codebases. Repos here are personal projects and templates.
 
-NodeJS/Express/NestJS/MongoDB/MSSQLSERVER.
-
-## See my profile on LinkedIn: https://www.linkedin.com/in/minhnguyenx/
-
+[LinkedIn](https://www.linkedin.com/in/minhnguyen99x/) · [X](https://x.com/MinhNguyen99x) · minhnguyen99x.professional@gmail.com
